@@ -1,0 +1,77 @@
+1706498954803	geckodriver	INFO	Listening on 127.0.0.1:53694
+1706498957884	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofilegTV29X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706498958060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706498958098	Marionette	INFO	Listening on port 53704
+WebDriver BiDi listening on ws://127.0.0.1:53695
+Read port: 53704
+1706498958217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53695/devtools/browser/edb11ade-137e-4317-8fa5-f0d995c6e59e
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914, line 52: Script terminated by timeout at:
+ob@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:52:278
+qi.prototype.querySelectorAll@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:160:161
+en@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:242:943
+Kr/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:322:109
+Pc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:88:513
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+n.sa@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:120:219
+Zc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:90:1054
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+Rh/c/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:152:320
+Va@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:47:339
+Sa.prototype.flush@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:47:127
+Ua@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:466
+Rh/c/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:152:292
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:78:425
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:77:439
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:223
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+Xg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:237
+Ra.prototype.Zb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:298
+Xg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:246
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:78:425
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:77:439
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:223
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+Xg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:237
+Ra.prototype.Zb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:298
+Xg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:246
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:78:425
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:77:439
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:223
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+qd/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:96:671
+
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 912 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js, line 79: Script terminated by timeout at:
+vf@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:79:828
+Dq@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:240:320
+Mq@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:246:230
+Eq.prototype.sendBeacon@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:247:48
+Fq@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:246:42
+Eq/this.ua<@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:243:105
+b@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:57:1362
+Rc/<@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:57:1465
+Eq/this.va@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:243:245
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 6389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706498965546	Marionette	INFO	Stopped listening on port 53704
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401230101/reactive_library_fy2021.js, line 54: Script terminated by timeout at:
+O/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401230101/reactive_library_fy2021.js:54:396
+
+JavaScript warning: https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/client/qs_click_protection_fy2021.js, line 26: Script terminated by timeout at:
+Y@https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/client/qs_click_protection_fy2021.js:26:584
+fc/a.o<@https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/client/qs_click_protection_fy2021.js:30:180
+X.prototype.A@https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/client/qs_click_protection_fy2021.js:26:398
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

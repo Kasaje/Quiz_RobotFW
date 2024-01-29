@@ -1,0 +1,39 @@
+1706495702643	geckodriver	INFO	Listening on 127.0.0.1:57279
+1706495705727	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofilevDsduD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706495705964	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706495706003	Marionette	INFO	Listening on port 57289
+WebDriver BiDi listening on ws://127.0.0.1:57280
+Read port: 57289
+1706495706108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57280/devtools/browser/ddd557a0-3713-421c-a5d9-176bba4424cc
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706495710556	Marionette	INFO	Stopped listening on port 57289
+JavaScript warning: https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval line 5647 > eval, line 1: Script terminated by timeout at:
+@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval line 5647 > eval:1:353
+m7/</<@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:31174
+m7/<@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:31182
+Gv@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:33931
+x.s</<@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:49063
+vx@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:26822
+KP@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:17911
+zG@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:17120
+m7@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:27704
+F@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:23521
+@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:50785
+S@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:13967
+ht@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:34726
+bg@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:3896
+wo@https://pagead2.googlesyndication.com/bg/P1hqgBmkkNDwT9zug75Po3J06KDKU0QoOZK6hiZMV2E.js line 2 > eval:5647:23416
+Ia/<@https://googleads.g.doubleclick.net/pagead/html/r20240122/r20110914/zrt_lookup_fy2021.html?fsb=1 line 21 > injectedScript:2:9192
+Na@https://googleads.g.doubleclick.net/pagead/html/r20240122/r20110914/zrt_lookup_fy2021.html?fsb=1 line 21 > injectedScript:2:9373
+Ia@https://googleads.g.doubleclick.net/pagead/html/r20240122/r20110914/zrt_lookup_fy2021.html?fsb=1 line 21 > injectedScript:2:9182
+
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 5: Script terminated by timeout at:
+fix@https://automationexercise.com/static/js/jquery.js:5:14740
+dispatch@https://automationexercise.com/static/js/jquery.js:5:13619
+add/v.handle@https://automationexercise.com/static/js/jquery.js:5:10866
+
+Dynamically enable window occlusion 1

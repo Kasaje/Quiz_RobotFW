@@ -1,0 +1,17 @@
+1706496076276	geckodriver	INFO	Listening on 127.0.0.1:58054
+1706496079347	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofilev5ybX3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706496079522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706496079560	Marionette	INFO	Listening on port 58065
+WebDriver BiDi listening on ws://127.0.0.1:58055
+Read port: 58065
+1706496079679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58055/devtools/browser/00a86a56-7680-4c41-bb3c-c115846e4199
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706496083455	Marionette	INFO	Stopped listening on port 58065
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401250101/show_ads_impl_fy2021.js?bust=31080697, line 533: Script terminated by timeout at:
+ZN/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401250101/show_ads_impl_fy2021.js?bust=31080697:533:394
+
+Dynamically enable window occlusion 1

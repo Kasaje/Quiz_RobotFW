@@ -1,0 +1,23 @@
+1706497695084	geckodriver	INFO	Listening on 127.0.0.1:52476
+1706497698165	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofileJrsIzM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706497698334	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706497698372	Marionette	INFO	Listening on port 52486
+WebDriver BiDi listening on ws://127.0.0.1:52477
+Read port: 52486
+1706497698498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52477/devtools/browser/3dee67dd-77f8-4e5f-80ab-df3b81175a02
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706497702392	Marionette	INFO	Stopped listening on port 52486
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401230101/reactive_library_fy2021.js?bust=31080662, line 54: Script terminated by timeout at:
+O/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401230101/reactive_library_fy2021.js?bust=31080662:54:396
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914, line 14: Script terminated by timeout at:
+y@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:14:248
+Ra.prototype.Zb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:263
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

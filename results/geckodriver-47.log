@@ -1,0 +1,35 @@
+1706498973765	geckodriver	INFO	Listening on 127.0.0.1:59096
+1706498976830	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofilesPRxH5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706498977012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706498977051	Marionette	INFO	Listening on port 59107
+WebDriver BiDi listening on ws://127.0.0.1:59097
+Read port: 59107
+1706498977154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59097/devtools/browser/9698cbc1-4ddb-41c5-8f2b-6ed30c6e751c
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 4162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 4801 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 5649 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706498987484	Marionette	INFO	Stopped listening on port 59107
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js, line 519: Script terminated by timeout at:
+LE/a.g<@https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20240117_RC00/outstream.min.js:519:949
+
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 6: Script terminated by timeout at:
+x.fx.tick@https://automationexercise.com/static/js/jquery.js:6:25787
+
+JavaScript warning: https://contextual.media.net/checksync.php?vsSync=1&cs=6&cv=31&https=1&cid=8CU44R37O&prvid=99%2C77%2C20000%2C262%2C460%2C461%2C462%2C4%2C313%2C10000%2C459%2C229%2C9%2C319&itype=ADX&purpose1=1&gdprconsent=1&gdpr=0&usp_status=0&usp_consent=1, line 3: Script terminated by timeout at:
+s/this.getAllConfig@https://contextual.media.net/checksync.php?vsSync=1&cs=6&cv=31&https=1&cid=8CU44R37O&prvid=99%2C77%2C20000%2C262%2C460%2C461%2C462%2C4%2C313%2C10000%2C459%2C229%2C9%2C319&itype=ADX&purpose1=1&gdprconsent=1&gdpr=0&usp_status=0&usp_consent=1:3:17785
+s/this.markCookiesSet@https://contextual.media.net/checksync.php?vsSync=1&cs=6&cv=31&https=1&cid=8CU44R37O&prvid=99%2C77%2C20000%2C262%2C460%2C461%2C462%2C4%2C313%2C10000%2C459%2C229%2C9%2C319&itype=ADX&purpose1=1&gdprconsent=1&gdpr=0&usp_status=0&usp_consent=1:3:18028
+t/l<@https://contextual.media.net/checksync.php?vsSync=1&cs=6&cv=31&https=1&cid=8CU44R37O&prvid=99%2C77%2C20000%2C262%2C460%2C461%2C462%2C4%2C313%2C10000%2C459%2C229%2C9%2C319&itype=ADX&purpose1=1&gdprconsent=1&gdpr=0&usp_status=0&usp_consent=1:3:16748
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

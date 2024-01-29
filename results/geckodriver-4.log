@@ -1,0 +1,39 @@
+1706495636458	geckodriver	INFO	Listening on 127.0.0.1:57157
+1706495639529	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofilezAPo8G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706495639699	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706495639736	Marionette	INFO	Listening on port 57167
+WebDriver BiDi listening on ws://127.0.0.1:57158
+Read port: 57167
+1706495639860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57158/devtools/browser/975669b4-904e-4fb6-925b-2b3b4ef624b8
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 5284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 621: TypeError: MutationObserver.observe: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1706495645042	Marionette	INFO	Stopped listening on port 57167
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval line 4271 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+f/I.concat@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval line 4271 > eval line 1 > eval line 1 > eval:1:391
+get@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:25600
+d@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval line 4271 > eval line 1 > eval line 1 > eval:1:119
+i$/B.Yn<@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:27947
+U7@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:22872
+N.K</<@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:48298
+lK@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:19828
+b@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:4847
+P@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:17682
+i$@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:25700
+y@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:34523
+@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:49951
+pE@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:2213
+cw@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:25365
+vL@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:16049
+JT@https://pagead2.googlesyndication.com/bg/WihAbdPmEAuwNNTtrWjgEsQMZ632wtWEawfwOklMupQ.js line 2 > eval:4271:20915
+Ia/<@https://googleads.g.doubleclick.net/pagead/html/r20240122/r20110914/zrt_lookup_fy2021.html?fsb=1#RS-1-&adk=1812271801&client=ca-pub-1677597403311019&fa=1&ifi=7&uci=a!7&btvi=1:20:9192
+Na@https://googleads.g.doubleclick.net/pagead/html/r20240122/r20110914/zrt_lookup_fy2021.html?fsb=1#RS-1-&adk=1812271801&client=ca-pub-1677597403311019&fa=1&ifi=7&uci=a!7&btvi=1:20:9373
+Ia@https://googleads.g.doubleclick.net/pagead/html/r20240122/r20110914/zrt_lookup_fy2021.html?fsb=1#RS-1-&adk=1812271801&client=ca-pub-1677597403311019&fa=1&ifi=7&uci=a!7&btvi=1:20:9182
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

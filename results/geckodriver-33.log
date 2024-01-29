@@ -1,0 +1,21 @@
+1706497789065	geckodriver	INFO	Listening on 127.0.0.1:52709
+1706497792134	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofileD5P3LO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706497792316	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706497792355	Marionette	INFO	Listening on port 52718
+WebDriver BiDi listening on ws://127.0.0.1:52710
+Read port: 52718
+1706497792459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52710/devtools/browser/5f86fd5e-7bd5-4ef4-9d8c-e377da785efc
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 5898 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1706497797003	Marionette	INFO	Stopped listening on port 52718
+JavaScript warning: https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/abg_lite_fy2021.js, line 13: Script terminated by timeout at:
+P@https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/abg_lite_fy2021.js:13:883
+ec/<@https://tpc.googlesyndication.com/pagead/js/r20240122/r20110914/abg_lite_fy2021.js:31:503
+
+Dynamically enable window occlusion 1

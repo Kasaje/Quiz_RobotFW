@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.12.1 on win32)" generated="2024-01-29T10:32:53.222950" rpa="false" schemaversion="5">
+<suite id="s1" name="Quiz RobotFW" source="C:\Users\UtilThistermFinish\Documents\GitHub\Quiz_RobotFW">
+<suite id="s1-s1" name="Quiz" source="C:\Users\UtilThistermFinish\Documents\GitHub\Quiz_RobotFW\Quiz.robot">
+<kw name="Open Browser" owner="SeleniumLibrary" type="SETUP">
+<msg time="2024-01-29T10:32:53.352066" level="INFO">Opening browser 'firefox' to base url 'https://automationexercise.com/'.</msg>
+<arg>https://automationexercise.com/</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-01-29T10:32:53.352066" elapsed="8.653273"/>
+</kw>
+<test id="s1-s1-t1" name="Verify that cart page is displayed" line="17">
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:02.008328" level="INFO">Clicking element '//*[@id="header"]/div/div/div/div[2]/div/ul/li[4]/a'.</msg>
+<arg>//*[@id="header"]/div/div/div/div[2]/div/ul/li[4]/a</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:02.008328" elapsed="1.207905"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:03.217229" level="INFO">Typing text 'Kaseamsan' into text field '//*[@name="name"]'.</msg>
+<arg>//*[@name="name"]</arg>
+<arg>Kaseamsan</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:03.217229" elapsed="0.028904"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:03.246133" level="INFO">Typing text 'ssdfsdf@gmail.com' into text field '//*[@id="form"]/div/div/div[3]/div/form/input[3]'.</msg>
+<arg>//*[@id="form"]/div/div/div[3]/div/form/input[3]</arg>
+<arg>ssdfsdf@gmail.com</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:03.246133" elapsed="0.011959"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:03.259089" level="INFO">Clicking button '//*[@id="form"]/div/div/div[3]/div/form/button'.</msg>
+<arg>//*[@id="form"]/div/div/div[3]/div/form/button</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:03.258092" elapsed="1.614141"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:04.873227" level="INFO">Clicking element '//*[@id="id_gender1"]'.</msg>
+<arg>//*[@id="id_gender1"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:04.873227" elapsed="0.221742"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:05.095972" level="INFO">Typing text '65022375' into text field '//*[@id="password"]'.</msg>
+<arg>//*[@id="password"]</arg>
+<arg>65022375</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:05.095972" elapsed="0.011960"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:05.110923" level="INFO">Clicking element '//*[@id="days"]/option[13]'.</msg>
+<arg>//*[@id="days"]/option[13]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:05.110923" elapsed="0.235942"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:05.348203" level="INFO">Clicking element '//*[@id="months"]/option[10]'.</msg>
+<arg>//*[@id="months"]/option[10]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:05.348203" elapsed="0.208558"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:05.557755" level="INFO">Clicking element '//*[@id="years"]/option[21]'.</msg>
+<arg>//*[@id="years"]/option[21]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:05.557755" elapsed="0.209601"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:05.769298" level="INFO">Clicking element '//*[@id="newsletter"]'.</msg>
+<arg>//*[@id="newsletter"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:05.769298" elapsed="0.212931"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:05.985959" level="INFO">Clicking element '//*[@id="optin"]'.</msg>
+<arg>//*[@id="optin"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:05.983922" elapsed="0.221046"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.205964" level="INFO">Typing text 'Kaseamsan' into text field '//*[@id="first_name"]'.</msg>
+<arg>//*[@id="first_name"]</arg>
+<arg>Kaseamsan</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.204968" elapsed="0.017940"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.223904" level="INFO">Typing text 'Keawjeen' into text field '//*[@id="last_name"]'.</msg>
+<arg>//*[@id="last_name"]</arg>
+<arg>Keawjeen</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.222908" elapsed="0.015946"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.239851" level="INFO">Typing text 'Up' into text field '//*[@id="company"]'.</msg>
+<arg>//*[@id="company"]</arg>
+<arg>Up</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.238854" elapsed="0.008970"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.248821" level="INFO">Typing text 'UP65 PHAYAO' into text field '//*[@id="address1"]'.</msg>
+<arg>//*[@id="address1"]</arg>
+<arg>UP65 PHAYAO</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.247824" elapsed="0.008970"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.257791" level="INFO">Typing text '-' into text field '//*[@id="address2"]'.</msg>
+<arg>//*[@id="address2"]</arg>
+<arg>-</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.256794" elapsed="0.010964"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.267758" level="INFO">Typing text 'Single' into text field '//*[@id="state"]'.</msg>
+<arg>//*[@id="state"]</arg>
+<arg>Single</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.267758" elapsed="0.011960"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.279718" level="INFO">Typing text 'PhaYao' into text field '//*[@id="city"]'.</msg>
+<arg>//*[@id="city"]</arg>
+<arg>PhaYao</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.279718" elapsed="0.010963"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.290681" level="INFO">Typing text '56000' into text field '//*[@id="zipcode"]'.</msg>
+<arg>//*[@id="zipcode"]</arg>
+<arg>56000</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.290681" elapsed="0.012957"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.304634" level="INFO">Typing text '0999999988' into text field '//*[@id="mobile_number"]'.</msg>
+<arg>//*[@id="mobile_number"]</arg>
+<arg>0999999988</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.304634" elapsed="0.011960"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2024-01-29T10:33:06.316594" level="INFO">Clicking button '//*[@id="form"]/div/div/div/div[1]/form/button'.</msg>
+<msg time="2024-01-29T10:33:06.350481" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-40.png"&gt;&lt;img src="selenium-screenshot-40.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2024-01-29T10:33:06.351478" level="FAIL">ElementClickInterceptedException: Message: Element &lt;button class="btn btn-default" type="submit"&gt; is not clickable at point (233,871) because another element &lt;div id="aswift_2_host"&gt; obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:335:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:176:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:135:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:204:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:84:31
+</msg>
+<arg>//*[@id="form"]/div/div/div/div[1]/form/button</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="FAIL" start="2024-01-29T10:33:06.316594" elapsed="0.036877">ElementClickInterceptedException: Message: Element &lt;button class="btn btn-default" type="submit"&gt; is not clickable at point (233,871) because another element &lt;div id="aswift_2_host"&gt; obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:335:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:176:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:135:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:204:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:84:31
+</status>
+</kw>
+<status status="FAIL" start="2024-01-29T10:33:02.005339" elapsed="4.348132">ElementClickInterceptedException: Message: Element &lt;button class="btn btn-default" type="submit"&gt; is not clickable at point (233,871) because another element &lt;div id="aswift_2_host"&gt; obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:335:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:176:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:135:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:204:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:84:31
+</status>
+</test>
+<kw name="Close Browser" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2024-01-29T10:33:06.355464" elapsed="2.569255"/>
+</kw>
+<doc>Test Case 14: Place Order: Register while Checkout</doc>
+<status status="FAIL" start="2024-01-29T10:32:53.240887" elapsed="15.684829"/>
+</suite>
+<status status="FAIL" start="2024-01-29T10:32:53.226934" elapsed="15.701771"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Quiz RobotFW">Quiz RobotFW</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1" name="Quiz">Quiz RobotFW.Quiz</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,33 @@
+1706498418368	geckodriver	INFO	Listening on 127.0.0.1:56627
+1706498421442	mozrunner::runner	INFO	Running command: "C:\\Users\\UtilThistermFinish\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remo ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UTILTH~1\\AppData\\Local\\Temp\\rust_mozprofileXPylOy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706498421645	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706498421684	Marionette	INFO	Listening on port 56636
+WebDriver BiDi listening on ws://127.0.0.1:56628
+Read port: 56636
+1706498421788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56628/devtools/browser/5d64377c-6e9d-44f1-b50d-a81af1c899c3
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 5683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 3853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval line 2725 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706498428842	Marionette	INFO	Stopped listening on port 56636
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401240101/reactive_library_fy2021.js?bust=31080663, line 54: Script terminated by timeout at:
+O/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202401240101/reactive_library_fy2021.js?bust=31080663:54:396
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914, line 81: Script terminated by timeout at:
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:81:810
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
